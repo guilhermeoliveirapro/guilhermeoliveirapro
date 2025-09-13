@@ -1,8 +1,11 @@
 <h1>👋 Olá, eu sou Guilherme Oliveira — Desenvolvedor Back-end em formação </h1>
 <p>Atualmente, estou focado em evoluir minhas habilidades com Python e JavaScript explorando também Java e desenvolvimento de APIs.  
+
+  
 🧠 Sobre mim 
 ___________________________________________________________________________________________________________________________________
-🌱 Aprendendo atualmente: Java, APIs RESTful e boas práticas de back-end 
+
+🌱 Aprendendo atualmente: Java, APIs RESTful e boas práticas de back-end
 💬 Curto assuntos sobre: Python, lógica de programação, estrutura de dados 
 📫 Contato: guilhermemattosdev@gmail.com</p>
 
