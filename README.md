@@ -2,6 +2,7 @@
 
 
 <p>Atualmente, estou focado em aprender e aprimorar minhas habilidades em lógica e algoritmos. Tenho noção básica em Python e JavaScript 💡
+__________________________________________________________________________________________________________________________________________
 
 🧠 Sobre mim 
 
