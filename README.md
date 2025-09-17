@@ -6,9 +6,9 @@ ________________________________________________________________________________
 
 🧠 Sobre mim 
 
-* 🌱 Aprendendo atualmente: Java, APIs RESTful e boas práticas de Backend 
+* 🌱 Aprendendo atualmente: C#, .Net e boas práticas de Backend 
 
-* 💬 Fique à vontade para falar comigo sobre: Python, JavaScript, Lògica de Programação 
+* 💬 Fique à vontade para falar comigo sobre: Python, JavaScript, C#, Lògica de Programação 
 
 * 📫 Contato: guilhermemattosdev@gmail.com</p>
 
