@@ -1,7 +1,7 @@
 <h1>👋 Olá, eu sou Guilherme Oliveira — Desenvolvedor Back-end </h1>
 
 
-<p>Atualmente, estou focado em aprender e aprimorar minhas habilidades em lógica, algoritmos e Soluções com IA e desenvolver uma Startup/SaaS, tenho noção básica em Python e Node.js.
+<p>Atualmente, focado em aprender e aprimorar minhas habilidades em lógica, algoritmos e Soluções com IA e desenvolver uma Startup/SaaS, tenho noção básica em Python e Node.js.
 __________________________________________________________________________________________________________________________________________
 
 🧠 Sobre mim 
