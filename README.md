@@ -1,7 +1,8 @@
 <h1>Olá, eu sou Guilherme Oliveira — Desenvolvedor Back-end </h1>
 
 
-<p>Atualmente, focado em aprender e aprimorar minhas habilidades em lógica, algoritmos, Soluções com IA e desenvolver uma Startup/SaaS, tenho noção básica em Python, Javascript e Java.
+<p>Desenvolvedor Back-end focado em Java e Spring Boot.
+Construindo APIs REST, sistemas escaláveis e aplicações com PostgreSQL e Docker.
 __________________________________________________________________________________________________________________________________________
 
 🧠 Sobre mim 
