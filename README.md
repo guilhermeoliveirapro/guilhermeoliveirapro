@@ -1,4 +1,4 @@
-<h1>Olá, eu sou Guilherme Oliveira — Desenvolvedor Back-end </h1>
+<h1>Guilherme Oliveira</h1>
 
 
 <p>Desenvolvedor Back-end focado em Java e Spring Boot.
