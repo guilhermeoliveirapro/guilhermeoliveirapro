@@ -1,9 +1,8 @@
 <h1>Guilherme Oliveira</h1>
 
 
-<p>Software Developer | Backend-Focused Full Stack | JavaScript • TypeScript • Node.js
-
-Software Developer building modern web applications, scalable backends and AI-powered products.
+<p>Backend Developer | JavaScript • TypeScript • Node.js
+Building modern web applications, scalable backends and AI-powered products.
 __________________________________________________________________________________________________________________________________________
 
 🧠 About Me 
