@@ -2,12 +2,11 @@
 
 
 <p>Backend Developer | JavaScript • TypeScript • Node.js
-Building modern web applications, scalable backends and AI-powered products.
 __________________________________________________________________________________________________________________________________________
 
 🧠 About Me 
 
-* 💻 Focused on Backend development with JavaScript, TypeScript and Node.js.
+* 💻 Building modern web applications, scalable backends and AI-powered products.
 
 * 🌱 Interested in Software Architecture, APIs, Artificial Intelligence and SaaS development.
 
