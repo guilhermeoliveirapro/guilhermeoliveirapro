@@ -1,19 +1,22 @@
 <h1>Guilherme Oliveira</h1>
 
 
-<p>Desenvolvedor Back-end focado em Java e Spring Boot.
-Construindo APIs REST, sistemas escaláveis e aplicações com PostgreSQL e Docker.
+<p>Software Developer | Backend-Focused Full Stack | JavaScript • TypeScript • Node.js
+
+Software Developer building modern web applications, scalable backends and AI-powered products.
 __________________________________________________________________________________________________________________________________________
 
-🧠 Sobre mim 
+🧠 About Me 
 
-* 🌱 Aprendendo atualmente: Java, SpringBoot e boas práticas de Backend
-  
-* 💵 Conhecimento na área financeira: Tenho sólido entendimento sobre investimentos, empréstimos, criptomoedas e estratégias de gestão financeira pessoal.
+* 💻 Focused on Backend development with JavaScript, TypeScript and Node.js.
 
-* 💬 Fique à vontade para falar comigo sobre: Python, JavaScript, Java, Carreira em Tecnologia.
+* 🌱 Interested in Software Architecture, APIs, Artificial Intelligence and SaaS development.
 
-* 📫 Contato: guilhermemattosdev@gmail.com</p>
+* 💵 Strong interest in finance, investments, cryptocurrencies and personal financial management.
+
+* 💬 Feel free to talk to me about JavaScript, TypeScript, Node.js, Software Architecture, SaaS and Technology.
+
+* 📫 Contact: guilhermemattosdev@gmail.com</p>
 
 <h2>🛠️ Tecnologias</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
